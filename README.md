@@ -8,4 +8,4 @@ pbjb/pbjb is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
-![snake gif](https://github.com/pbjb/pbjb/blob/output/github-contribution-grid-snake.svg)
+
